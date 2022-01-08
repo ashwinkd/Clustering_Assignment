@@ -14,7 +14,10 @@ clustering the handwritten MNIST character images. This consists of python imple
 [VGG16](https://github.com/ashwinkd/Clustering_Assignment/tree/master/vgg_result) are the results of taking the image data vector embedding given by a pre-trained VGG model.
 
 ## Geometry
+
+The graph below are clustering results for True,  KMEANS, DBSCAN, Hierarchical Single, Hierarchical Complete, Hierarchical Average, Hierarchical Wards
 ![Geometry Data](https://github.com/ashwinkd/Clustering_Assignment/blob/master/geometry.png)
 
 ## Density
+The graph below are clustering results for True,  KMEANS, DBSCAN, Hierarchical Single, Hierarchical Complete, Hierarchical Average, Hierarchical Wards
 ![Density Data](https://github.com/ashwinkd/Clustering_Assignment/blob/master/density.png)
