@@ -12,3 +12,9 @@ clustering the handwritten MNIST character images. This consists of python imple
 [Flatten](https://github.com/ashwinkd/Clustering_Assignment/tree/master/flatten_result) are the results of taking the image data as a 1D array.
 
 [VGG16](https://github.com/ashwinkd/Clustering_Assignment/tree/master/vgg_result) are the results of taking the image data vector embedding given by a pre-trained VGG model.
+
+## Geometry
+![Geometry Data](https://github.com/ashwinkd/Clustering_Assignment/blob/master/geometry.png)
+
+## Density
+![Density Data](https://github.com/ashwinkd/Clustering_Assignment/blob/master/density.png)
