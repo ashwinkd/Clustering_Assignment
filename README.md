@@ -21,3 +21,10 @@ The graph below are clustering results for True,  KMEANS, DBSCAN, Hierarchical S
 ## Density
 The graph below are clustering results for True,  KMEANS, DBSCAN, Hierarchical Single, Hierarchical Complete, Hierarchical Average, Hierarchical Wards
 ![Density Data](https://github.com/ashwinkd/Clustering_Assignment/blob/master/density.png)
+
+
+## Image
+![Image Cluster](https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_cluster1.png)
+![Image Cluster](https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_cluster2.png)
+![Image Cluster](https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_cluster3.png)
+![Image Cluster](https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_cluster4.png)
