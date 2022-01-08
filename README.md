@@ -25,8 +25,10 @@ The graph below are clustering results for True,  KMEANS, DBSCAN, Hierarchical S
 
 ## Image
 <img align="left" width="100" height="100" src="https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_clusters1.png">
+
 <img align="right" width="100" height="100" src="https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_clusters2.png">
 
 <img align="left" width="100" height="100" src="https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_clusters3.png">
+
 <img align="right" width="100" height="100" src="https://github.com/ashwinkd/Clustering_Assignment/blob/master/image_clusters4.png">
 
